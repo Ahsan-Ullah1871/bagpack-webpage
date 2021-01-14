@@ -1,0 +1,114 @@
+
+
+body{
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif; 
+}
+
+
+/* all h1*/
+
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 1em;
+ 
+}
+/*for all button  */
+
+button{
+    border: 0;
+}
+
+ /*header, nav */
+nav{
+    font-size: 20px;
+    
+
+}
+header{
+    background-color: #FFFFF4;
+}
+
+/* main */
+.highlight-1{
+    font-size: 60px;
+    color: #363958;
+ }
+.highlight-2{
+    color: #76C27E;
+    font-size: 60px;
+}
+.icons img{
+    width: 25px;
+}
+.icons {
+    background-color: #363958 ;
+}
+
+.main-image img{
+    width: 100%;
+}
+.pair{
+    width: 24em;
+}
+
+
+
+/* our-service */
+ 
+ 
+.our-service img{
+    width: 100%;
+}
+.our-service-icon img{
+    width: 80px;
+    padding-right: 10px;
+}
+
+/*card style.  */
+.bagpack-card{
+    border: 0;
+}
+.bagpack-card button{
+    border-radius: 20px;
+}
+.bagpack-footer{
+    border: 0;
+    background-color: white;
+}
+h4{
+    color: #76C27E;
+    font-size: 32px;
+    margin: auto 0;
+    font-weight: 700;
+}
+h5{
+    color:#363958 ;
+    font-size: 24px;
+    font-weight: bold;
+     padding-bottom: 10px;
+}
+.bag-pic{
+    background-color:#F1F1F1;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+/* top sell */
+.top-tag{
+    background-color:#FFFFF4 ;
+}
+.top-tag h1{
+  margin: 0;
+  font-size: 60px;
+}
+
+/* footer */
+footer{
+    background-color:#7474745e ;
+    
+}
+footer a{
+    color: black;
+}
